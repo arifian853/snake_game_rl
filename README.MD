@@ -26,7 +26,7 @@ reinforcement_learning/
 ├── train_snake_rl.py     # Training script with visualization
 ├── test_snake_rl.py      # Testing script for trained agent
 ├── snake_q_table.pkl     # Saved Q-table (generated after training)
-└── README.md             # This file
+└── README.md             # README
 ```
 
 ## 🧠 How It Works
@@ -54,7 +54,7 @@ The agent can choose from 3 actions:
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/arifian853/snake_game_rl.git
-cd reinforcement_learning
+cd snake_game_rl
 ```
 
 2. **Create Virtual Environment**:
